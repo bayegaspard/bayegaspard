@@ -9,7 +9,6 @@
   <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="bayegaspard's GitHub Stats" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayegaspard)](https://github.com/bayegaspard/github-readme-stats)
-" />
+  <img align="left" alt="bayegaspard's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayegaspard" />
 
 </details>

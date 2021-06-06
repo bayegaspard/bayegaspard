@@ -1,6 +1,6 @@
 ### Hi there, I'm Baye Gaspard  👋
 
-## I'm a DevSecOps, Footbal player, Developer, and Coursera Guided Project instructor!!
+## I'm a DevSecOps, Footbal player, and Coursera Guided Project instructor!!
 
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.

@@ -3,7 +3,7 @@
 ## I'm a DevSecOps, Footbal player, and Coursera Guided Project instructor!!
 
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 Goals: Contribute more to Open Source projects.
 
 ### Github Stats
 

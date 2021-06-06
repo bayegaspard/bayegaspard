@@ -9,12 +9,12 @@
 
   <img align="left" alt="bayegaspard's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayegaspard" />
   
-  <a href="https://github.com/bayegaspard/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bayegaspard&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/bayegaspard/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bayegaspard&repo=convoychat" />
-</a>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="bayegaspard's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bayegaspard&show_icons=true&hide_border=true" />
+
+</details>
 
 
 

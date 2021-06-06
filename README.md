@@ -7,7 +7,7 @@
 
 ### Github Stats
 
-  [![Baye Gaspard's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayegaspard)](https://github.com/bayegaspard/github-readme-stats)
+  [![Baye Gaspard's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayegaspard&show_icons=true&theme=radical)](https://github.com/bayegaspard/github-readme-stats)
 
   
 

@@ -7,7 +7,8 @@
 
 ### Github Stats
 
-  <img align="left" alt="bayegaspard's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayegaspard" />
+  [![Baye Gaspard's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayegaspard)](https://github.com/bayegaspard/github-readme-stats)
+
   
 
 
